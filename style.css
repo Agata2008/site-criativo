@@ -29,11 +29,11 @@ body {
     color: white;
 }
 
-.escola-imagem{
+.sobre-imagem{
     width: 25%;
 }
 
-#escola{
+#sobre{
     background-image: linear-gradient(#8FBC8F,#98FB98);
     color:white;
     display: flex;
@@ -42,40 +42,40 @@ body {
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.sobre-div-conteudo{
     width: 35%;
 }
 
 
-.escola-titulo{
+.sobre-titulo{
     padding: 24px 0;
 }
 
-#estudante{
+#tipos{
     padding: 24px 0;
 }
 
 
-.estudante-imagem{
+.tipos-imagem{
     width: 120px;
 }
 
-.estudante-icone{
+.tipos-icone{
     width: 24px;
     padding: 4px 8px;
 }
 
-.estudante-div{
+.tipos-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.estudante-titulo{
+.tipos-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.estudante-todos{
+.tipos-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
