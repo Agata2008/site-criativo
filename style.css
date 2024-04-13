@@ -7,7 +7,7 @@ body {
 }
 .cabecalho {
     background-color: #8FBC8F;
-    color: silver;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -26,7 +26,7 @@ body {
 
 .cabecalho-lista-item a{
     text-decoration: none; 
-    color: silver;
+    color: white;
 }
 
 .sobre-imagem{
@@ -34,8 +34,8 @@ body {
 }
 
 #sobre{
-    background-image: linear-gradient(#8FBC8F,#98FB98);
-    color:silver;
+    background-image: linear-gradient(#8FBC8F,#90EE90);
+    color:white;
     display: flex;
     justify-content: center;
     align-items: center;
